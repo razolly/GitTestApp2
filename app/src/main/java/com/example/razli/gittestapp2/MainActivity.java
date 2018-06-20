@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Comment 3
         // Comment 4
+
+        // Comment 5. Yes im getting the hang of it!
     }
 }
